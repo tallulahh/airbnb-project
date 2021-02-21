@@ -11,4 +11,4 @@ This project is good for improving:
 
 Below you can find my project evaluation:
 
-![Optional Text](../image.png)
+![Optional Text](image.png)
