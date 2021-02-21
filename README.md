@@ -17,4 +17,4 @@ Below you can find my project evaluation:
 <br>
 <br>
 <br>
-![Project-Evaluation](image.png)
+<img src="image.png">
